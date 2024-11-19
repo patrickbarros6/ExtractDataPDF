@@ -1,6 +1,6 @@
+pip install pillow --use-deprecated=legacy-resolver
 streamlit==1.26.0
 pandas==2.1.1
 google-generativeai
-pillow==9.5.0
 pymupdf
 xlsxwriter
