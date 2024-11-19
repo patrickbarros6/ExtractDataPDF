@@ -1,4 +1,4 @@
-pillow --use-deprecated=legacy-resolver
+pillow
 streamlit==1.26.0
 pandas==2.1.1
 google-generativeai
